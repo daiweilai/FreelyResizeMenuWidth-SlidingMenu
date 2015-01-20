@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidingMenuLibraryDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="default_tools" translatable="false">
+        <item>Close</item>
+        <item>Menu1</item>
+        <item>Menu2</item>
+        <item>Menu3</item>
+    </string-array>
+
+    <string name="title_activity_content">ContentActivity</string>
+
+</resources>
