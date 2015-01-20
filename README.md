@@ -5,6 +5,7 @@ This library was forked from https://github.com/jfeinstein10/SlidingMenu ，The 
 
 snapshot  
 ----------------------------------- 
+![github](https://github.com/daiweilai/FreelyResizeMenuWidth-SlidingMenu/blob/master/demo.gif "github")
 
 
 License  
